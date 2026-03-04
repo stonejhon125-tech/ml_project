@@ -1,0 +1,6 @@
+dilemma,recommendation,risk
+"Should we fire 10% of staff to save costs?", "Implement phased layoffs with severance", 0.8
+"Using AI for targeted ads on children", "Prohibit ads for under-13 users", 0.9
+"Automating customer service completely", "Maintain human oversight for complex issues", 0.6
+"Sharing user data with partners", "Anonymize data before sharing", 0.5
+"Deploying facial recognition in office", "Opt-in only policy", 0.7
